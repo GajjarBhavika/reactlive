@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Saturday Sessions: Chvrches perform \"He Said She Said\"",
+            "description": "Scottish synth-pop trio Chvrches is marking a decade since they came together in Glasgow. Aware of each other's talents, they got together in a basement studio, started crafting songs and realized they might have a future as a band. Since then, they've releas…",
+            "url": "https://www.cbsnews.com/video/saturday-sessions-chvrches-perform-he-said-she-said/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/04/63c3341c-bf19-4ce9-b882-3b865ae1512b/thumbnail/1200x630/0dc08abcec0c9c0466a2fe6b321abbe4/hesaidshesaid-785888-640x360.jpg",
+            "publishedAt": "2021-09-06T05:27:59+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Saturday Sessions: Chvrches perform \"California\"",
+            "description": "Scottish synth-pop trio Chvrches is marking a decade since they came together in Glasgow. Aware of each other's talents, they got together in a basement studio, started crafting songs and realized they might have a future as a band. Since then, they've releas…",
+            "url": "https://www.cbsnews.com/video/saturday-sessions-chvrches-perform-california/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/04/b50714e9-3c5b-4f80-9296-a1ace3b55515/thumbnail/1200x630/35bb46e0341c97b7b7c20e467dbde34f/california-785893-640x360.jpg",
+            "publishedAt": "2021-09-06T05:27:59+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Saturday Sessions: Chvrches perform \"Good Girls\"",
+            "description": "Scottish synth-pop trio Chvrches is marking a decade since they came together in Glasgow. Aware of each other's talents, they got together in a basement studio, started crafting songs and realized they might have a future as a band. Since then, they've releas…",
+            "url": "https://www.cbsnews.com/video/saturday-sessions-chvrches-perform-good-girls/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/04/02573f9a-b95f-4383-81ec-64051a331f04/thumbnail/1200x630/fe8d9d05298e2407b9cb1b445ad68a5d/goodgirls-785898-640x360.jpg",
+            "publishedAt": "2021-09-06T05:27:58+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "mtv-news",
+                "name": "MTV News"
+            },
+            "author": null,
+            "title": "BOP SHOP: SONGS BY HALSEY, SELENA GOMEZ, ROSALÍA, AND MORE",
+            "description": null,
+            "url": "http://www.mtv.com/news/3180521/bop-shop-halsey-selena-gomez-rosalia-tokischa/",
+            "urlToImage": null,
+            "publishedAt": "2021-09-06T04:07:10.1025744Z",
+            "content": "Please update your browser to view the website."
+        }
+    ]
+}
